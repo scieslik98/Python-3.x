@@ -1,6 +1,4 @@
 import pygame, os
-
-# kolory
 DARKRED = pygame.color.THECOLORS['darkred']
 DARKGREEN = pygame.color.THECOLORS['darkgreen']
 LIGHTBLUE = pygame.color.THECOLORS['lightblue']
